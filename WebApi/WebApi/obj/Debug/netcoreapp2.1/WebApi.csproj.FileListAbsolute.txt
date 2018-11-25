@@ -1,0 +1,56 @@
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\Ashok\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\Ashok\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\Ashok\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\Ashok\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ashok\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Ashok\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular6&Core2.1\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+E:\001 Angular6&Core2.1\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+E:\001 Angular6&Core2.1\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+E:\001 Angular6&Core2.1\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular6&Core2.1\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular6&Core2.1\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular6_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+E:\001 Angular6_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+E:\001 Angular6_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+E:\001 Angular6_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular6_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular6_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular7_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+E:\001 Angular7_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+E:\001 Angular7_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+E:\001 Angular7_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+E:\001 Angular7_Core21\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+E:\001 Angular7_Core21\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
